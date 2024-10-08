@@ -2,6 +2,10 @@
 
 I tried to solve this problem using SAT solver after reading this : https://blog.mathieuacher.com/ProgrammingChessPuzzles/
 
+## Goal
+
+The goal is to place 4 queens and 1 bishop on a 8x8 chess board so that all cells are covered.
+
 ## Running this notebook
 
 To run this notebook you need : 
